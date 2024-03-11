@@ -1,0 +1,15 @@
+Index: Lesson3/classwork3.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>print(\"Hello, world!\")\r\nprint(\"New data\")\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Lesson3/classwork3.py b/Lesson3/classwork3.py
+--- a/Lesson3/classwork3.py	(revision 8a0c3fe168742cbc4950bd3c1b4ae55dddfa6a9e)
++++ b/Lesson3/classwork3.py	(date 1710167842331)
+@@ -1,2 +1,2 @@
+ print("Hello, world!")
+-print("New data")
++print("New data")
+\ No newline at end of file
