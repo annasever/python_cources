@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b718298-18f3-47f9-a9e0-6e8e6739a7fc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Lesson3/class3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/class3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/classwork3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/classwork3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/homework3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/homework3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson5/list_and_tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson5/list_and_tuple.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +45,20 @@
     "Python.classwork4.executor": "Run",
     "Python.homework3.executor": "Run",
     "Python.homework4.executor": "Run",
+    "Python.homework5.executor": "Run",
+    "Python.list_and_tuple.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "homework",
+    "git-widget-placeholder": "Merging Homework5",
     "last_opened_file_path": "C:/Users/Acer/PycharmProjects/python_cources",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Acer\PycharmProjects\python_cources" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
