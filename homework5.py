@@ -1,7 +1,7 @@
 # 1 Task
 print('Task 1: \"Palindrome\"')
 my_str = input("Enter string for check: ")
-if (my_str == my_str[::-1]):
+if my_str == my_str[::-1]:
     first_check = True
     print(f'The statement that this string is palindrome is {first_check}')
 else:
@@ -10,9 +10,11 @@ else:
 
 # 2 Task
 print('\nTask 2: \"List_string_list\"')
-my_list =  ['Hillel', 'AQA', 'TEST']
-print(' '.join(my_list))
-print((' '.join(my_list)).split())
+my_list_1 =  ['Hillel', 'AQA', 'TEST']
+my_list_2 = ' '.join(my_list_1)
+print(my_list_2)
+my_list_3 = (' '.join(my_list_1)).split()
+print(my_list_3)
 
 # 3 Task
 print('\nTask 3: \"Sorted list\"')
