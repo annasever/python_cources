@@ -4,9 +4,6 @@ my_str = input("Enter string for check: ")
 if my_str == my_str[::-1]:
     first_check = True
     print(f'The statement that this string is palindrome is {first_check}')
-else:
-    second_check = False
-    print(f'The statement that this string is palindrome is {second_check}')
 
 # 2 Task
 print('\nTask 2: \"List_string_list\"')

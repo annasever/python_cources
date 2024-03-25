@@ -35,3 +35,7 @@ if data_list == sort_data_list:
     print('This list is sorted correctly')
 else:
     print('This list is not sorted correctly')
+<<<<<<< HEAD
+=======
+    
+>>>>>>> ee1bfad74e0a13b527c9ae202a286be067b6565c
