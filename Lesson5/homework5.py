@@ -1,18 +1,17 @@
 # 1 Task
 print('Task 1: \"Palindrome\"')
 my_str = input("Enter string for check: ")
-if (my_str == my_str[::-1]):
+if my_str == my_str[::-1]:
     first_check = True
     print(f'The statement that this string is palindrome is {first_check}')
-else:
-    second_check = False
-    print(f'The statement that this string is palindrome is {second_check}')
 
 # 2 Task
 print('\nTask 2: \"List_string_list\"')
-my_list =  ['Hillel', 'AQA', 'TEST']
-print(' '.join(my_list))
-print((' '.join(my_list)).split())
+my_list_1 =  ['Hillel', 'AQA', 'TEST']
+my_list_2 = ' '.join(my_list_1)
+print(my_list_2)
+my_list_3 = (' '.join(my_list_1)).split()
+print(my_list_3)
 
 # 3 Task
 print('\nTask 3: \"Sorted list\"')
@@ -35,7 +34,3 @@ if data_list == sort_data_list:
     print('This list is sorted correctly')
 else:
     print('This list is not sorted correctly')
-<<<<<<< HEAD
-=======
-    
->>>>>>> ee1bfad74e0a13b527c9ae202a286be067b6565c
