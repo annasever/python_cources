@@ -118,4 +118,46 @@
 # my_list = [letter for letter in data if letter in vowels]
 # print(my_list)
 
+# counter =0
+# while counter < 5:
+#     print(f'Counter is {counter}')
+#     counter +=1
 
+# numbers = [1, 5, 6, 77, 88, 90]
+# number = int(input('Enter number to divide: '))
+# expected_numbers = []
+# idx = 0
+#
+# while len(numbers) > idx:
+#     if numbers[idx] % number == 0:
+#         expected_numbers.append(numbers[idx])
+#     idx +=1
+# print(f'{expected_numbers} list of elements that divided by {number}')
+
+# numbers = [1, 2, 3]
+# idx = 0
+#
+# while len(numbers) - 1 > idx:
+#      if numbers[idx] + 1 != numbers[idx + 1]:
+#          print(f'{numbers[idx +1]} is first unsequenced element in {numbers} list')
+#          break
+#      idx += 1
+# else:
+#     print(f'{numbers} list in sequenced')
+
+# 1
+# 1 2
+# 1 2 3
+# 1 2 3 4
+# 1 2 3 4 5
+
+# number = int(input('Enter number from 1 to any: '))
+# hight = 1
+#
+# while hight <= number:
+#     width = 1
+#     while width <= hight:
+#         print(width, end=' ')
+#         width += 1
+#     print()
+#     hight += 1
