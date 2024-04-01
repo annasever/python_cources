@@ -28,7 +28,6 @@ result_str = ''
 for key, value in params.items():
     result_str += f'{key}={value}&'
 result_str = result_str.rstrip('& ')
-# super1 = initial_str.join(result_str)
 result_link = initial_str + result_str
 print(f'After formatting the string and dictionary, we get this link: {result_link}')
 
