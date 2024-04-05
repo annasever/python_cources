@@ -14,6 +14,6 @@ if result:
 
 try:
     result = course[input_key]
-    # print(f'Key {input_key} has value {result}.')
+#   print(f'Key {input_key} has value {result}.')
 except KeyError:
     print(f'Key {input_key} leads to KeyError')
